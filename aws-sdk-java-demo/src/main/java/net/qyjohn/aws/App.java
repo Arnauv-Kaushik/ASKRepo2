@@ -5,6 +5,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "ASK's Hello World, change made via Git !!" );
+        System.out.println( "ASK's Hello World, change made via Git 2nd time !!" );
     }
 }
