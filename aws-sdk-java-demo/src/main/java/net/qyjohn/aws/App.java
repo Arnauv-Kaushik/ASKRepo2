@@ -5,6 +5,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "ASK's Hello World !! AWS X6" );
+        System.out.println( "ASK's Hello World !! AWS X7" );
     }
 }
