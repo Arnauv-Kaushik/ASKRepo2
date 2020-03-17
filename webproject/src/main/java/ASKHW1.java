@@ -3,6 +3,6 @@ public class ASKHW1
 {
   public static void main(String[] args)
   {
-	  System.out.println("ASK's HW 0006");
+	  System.out.println("ASK's HW 0001");
   }
 }
